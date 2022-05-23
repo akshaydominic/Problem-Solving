@@ -1,18 +1,15 @@
 public class findingPlaindrome {
     public static void main(String[] args) {
-        boolean result = Palindrome(343);
-        System.out.println(result); 
+        System.out.println(Palindrome(343)); 
     }
     public static boolean Palindrome(int n){
+        int temp = n;
         int result = 0;
-        while(n>0){
-            result = n %10;
-            n = n/10;
+        while(temp>0){
+            int lastDigit = temp % 10;
+            result = result * 10 + lastDigit; 
+            temp = temp /10;
         }
-        if(result == n){
-            return true;
-        }else{
-            return false;
-        }
+        return result == n;
     }
 }
