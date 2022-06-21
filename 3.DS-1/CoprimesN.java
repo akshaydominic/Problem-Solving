@@ -7,15 +7,23 @@ public class CoprimesN {
     }
 
     public static int CoPrime(int n){
-        int results = 0;
-        for(int i=1;i<n;i++){
-            if(n % i == 0){
-                results++;
+        int result= 0;
+        for(int i=1;i<=n;i++){
+            if(isCoprime(i, n)){
+                result++;
             }
         }
-        return results;
+        return result;
     }
-    public static int FindFactors(int n){
-        
+
+    public static boolean isCoprime(int a,int b){
+        return gcd(a,b) == 1;
+    }
+    public static int gcd(int a,int b){
+        if(b==0){
+            return a;
+        }
+        return gcd(b,a%b);
     }
 }
+
