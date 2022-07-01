@@ -1,6 +1,5 @@
-import java.util.Set;
+import java.util.Map;
 import java.util.TreeMap;
-import java.util.Map.Entry;
 
 public class FrequencyString {
     public static void main(String[] args) {
@@ -18,10 +17,10 @@ public class FrequencyString {
                 treemp.put(ch, 1);
             }
         }
-        Set<Entry<Character,Integer>> eset = treemp.entrySet();   
+       
         int maxValue = 0;
         char maxCar=' ';
-        for(Entry<Character,Integer> e:eset){
+        for(Map.Entry<Character,Integer> e:treemp.entrySet()){
             if(e.getValue()> maxValue){
                 maxValue = e.getValue();
                 maxCar = e.getKey();
