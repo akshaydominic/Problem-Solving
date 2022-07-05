@@ -1,3 +1,4 @@
+import java.time.temporal.Temporal;
 import java.util.Stack;
 
 public class InOrderTree {
@@ -16,6 +17,8 @@ public class InOrderTree {
         a2.right = a5;
         a3.left = a6;
         PrintInOrder(root);
+        System.out.println();
+        PrintPreOrder(root);
     }
 
     public static void PrintInOrder(TreeNode root){
@@ -30,6 +33,22 @@ public class InOrderTree {
             temp = st.pop();
             System.out.print(temp.val+" ");
             temp = temp.right;
+        }
+    }
+    public static void PrintPreOrder(TreeNode root){
+        TreeNode temp = root;
+        Stack<TreeNode> st = new Stack<>();
+
+        st.push(temp);
+        while(!st.isEmpty()){
+            temp = st.pop();
+            System.out.print(temp.val+" ");
+            if(temp.right!=null){
+                st.add(temp.right);
+            }
+            if(temp.left!=null){
+                st.add(temp.left);
+            }
         }
     }
     
