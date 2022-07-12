@@ -10,7 +10,7 @@ public class SortArray {
     }
  }  
  public static String[] Solution(int n,String[] arr) {
-    Arrays.sort(arr,String.CASE_INSENSITIVE_ORDER);;
+    Arrays.sort(arr,String.CASE_INSENSITIVE_ORDER);
     return arr;
  } 
 }

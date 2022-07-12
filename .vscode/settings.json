@@ -1,7 +1,13 @@
 {
     "java.project.sourcePaths": [
+        "4.DS-2/TransposeMatrix",
+        "4.DS-2/StocksBuyAndSell",
+        "4.DS-2/SpiralMatrix",
+        "4.DS-2/SetMatrixRowandColumnstoZero",
+        "4.DS-2/ImageRotation",
+        "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "3.DS-1"
+        "4.DS-2/MissingPositiveNumber"
     ]
 }

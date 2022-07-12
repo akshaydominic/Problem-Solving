@@ -8,7 +8,9 @@ public class PostFixExpression {
     }
     public static int postFixSolution(String exp){
         Stack<Integer> st = new Stack<>();
+        
         int length  = exp.length();
+    
         // if(exp.length() == 1){ //wrong my child
         //     return exp.charAt(0)-'0';
         // }

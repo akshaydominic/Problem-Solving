@@ -1,6 +1,4 @@
-import java.time.temporal.Temporal;
 import java.util.Stack;
-
 public class InOrderTree {
     
     public static void main(String[] args) {
