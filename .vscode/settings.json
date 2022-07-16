@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "4.DS-2/Watercontainer",
         "4.DS-2/TripletMaximumSuminUnsortedArray",
         "4.DS-2/TransposeMatrix",
         "4.DS-2/StocksBuyAndSell",
@@ -16,6 +17,6 @@
         "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "4.DS-2/Watercontainer"
+        "4.DS-2/RemoveDuplicatesSortedArray"
     ]
 }
