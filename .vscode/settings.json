@@ -1,16 +1,21 @@
 {
     "java.project.sourcePaths": [
+        "4.DS-2/TripletMaximumSuminUnsortedArray",
         "4.DS-2/TransposeMatrix",
         "4.DS-2/StocksBuyAndSell",
         "4.DS-2/SpiralMatrix",
         "4.DS-2/SetMatrixRowandColumnstoZero",
         "4.DS-2/ReverseOrdersofWordinString",
+        "4.DS-2/PairwithgivensumUnsortedArray",
+        "4.DS-2/PairwithgivenSumSortedArray",
         "4.DS-2/MissingPositiveNumber",
+        "4.DS-2/MergetwoSortedArrays",
+        "4.DS-2/LongestSubstringwithatMostKDistinct",
         "4.DS-2/LargestSubarraywithsum0",
         "4.DS-2/ImageRotation",
         "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "4.DS-2/LongestSubstringwithatMostKDistinct"
+        "4.DS-2/Watercontainer"
     ]
 }
