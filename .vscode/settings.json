@@ -13,12 +13,13 @@
         "4.DS-2/MissingPositiveNumber",
         "4.DS-2/MergetwoSortedArrays",
         "4.DS-2/MaxSumSubArraywithk",
+        "4.DS-2/LongestSubstringwithoutrepeatingChar",
         "4.DS-2/LongestSubstringwithatMostKDistinct",
         "4.DS-2/LargestSubarraywithsum0",
         "4.DS-2/ImageRotation",
         "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "4.DS-2/LongestSubstringwithoutrepeatingChar"
+        "4.DS-2/MergeOverLappingIntervals"
     ]
 }
