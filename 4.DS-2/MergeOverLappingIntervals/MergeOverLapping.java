@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.locks.ReentrantLock;
 
-import javax.lang.model.element.Element;
 
 public class MergeOverLapping {
     public static void main(String[] args) {

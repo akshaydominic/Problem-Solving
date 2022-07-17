@@ -12,6 +12,7 @@
         "4.DS-2/PairwithgivenSumSortedArray",
         "4.DS-2/MissingPositiveNumber",
         "4.DS-2/MergetwoSortedArrays",
+        "4.DS-2/MergeOverLappingIntervals",
         "4.DS-2/MaxSumSubArraywithk",
         "4.DS-2/LongestSubstringwithoutrepeatingChar",
         "4.DS-2/LongestSubstringwithatMostKDistinct",
@@ -20,6 +21,6 @@
         "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "4.DS-2/MergeOverLappingIntervals"
+        "4.DS-2/MinimumMeetingRooms"
     ]
 }
