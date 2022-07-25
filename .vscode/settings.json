@@ -10,6 +10,7 @@
         "4.DS-2/RemoveDuplicatesSortedArray",
         "4.DS-2/PairwithgivensumUnsortedArray",
         "4.DS-2/PairwithgivenSumSortedArray",
+        "4.DS-2/MoveAllzerostoright",
         "4.DS-2/MissingPositiveNumber",
         "4.DS-2/MinimumMeetingRooms",
         "4.DS-2/MergetwoSortedArrays",
@@ -19,12 +20,13 @@
         "4.DS-2/LongestSubstringwithatMostKDistinct",
         "4.DS-2/LargestSubarraywithsum0",
         "4.DS-2/KadansAlgorithm",
+        "4.DS-2/InsertionSort",
         "4.DS-2/ImageRotation",
         "4.DS-2/FindSubarraywithsum0",
         "4.DS-2/FindEqualPartitionIndex",
         "3.DS-1",
         "2.Examples",
         "1.Problems",
-        "4.DS-2/MoveAllzerostoright"
+        "4.DS-2/SortWave"
     ]
 }
