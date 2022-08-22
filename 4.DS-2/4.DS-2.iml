@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ArrayBinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Comparatoruse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindEqualPartitionIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FindSubarraywithsum0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImageRotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InsertionSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/KadansAlgorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LargestSubarraywithsum0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestSubstringwithatMostKDistinct" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestSubstringwithoutrepeatingChar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MaxSumSubArraywithk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MergeOverLappingIntervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MergetwoSortedArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinimumDifference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MinimumMeetingRooms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MissingPositiveNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MoveAllzerostoright" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PairwithgivenSumSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PairwithgivensumUnsortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuickSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RemoveDuplicatesSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReverseOrdersofWordinString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SetMatrixRowandColumnstoZero" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortWave" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpiralMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StocksBuyAndSell" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StringSort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TransposeMatrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TripletMaximumSuminUnsortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Watercontainer" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,23 +1,22 @@
 public class exmaple {
     public static void main(String[] args) {
         Item item = new Book();
-        Book book = (Book) item;
-        System.out.print(item.price);
-        System.out.print(",");
-        System.out.print(item.getPrice());
-        System.out.print(",");
-        System.out.print(book.price);
-        System.out.print(",");
-        System.out.print(book.getPrice());
-
-
+        // Book book = (Book) item;
+        // System.out.print(item.price);
+        // System.out.print(",");
+        // System.out.print(item.getPrice());
+        // System.out.print(",");
+        // System.out.print(book.price);
+        // System.out.print(",");
+        // System.out.print(book.getPrice());
+        System.out.println(item.getPrice());
         
     }
 }
 class Item{
     protected double price = 5;
     public double getPrice(){
-        return price;
+        return price*-1;
 
     }
 }
